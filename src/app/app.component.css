@@ -1,0 +1,18 @@
+.one {
+    position: absolute;
+    left: 10px;
+}
+.two {
+    position: absolute;
+    right: 0px;
+}
+.three {
+    position: absolute;
+    bottom: 0px;
+    left: 10px;
+}
+.for {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
